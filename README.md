@@ -29,7 +29,12 @@ A powerful, modern podcast web app built with **Next.js**, **Tailwind CSS**, and
 
 ## 📸 Preview
 
-> Coming soon — add screenshots or demo video GIFs here.
+<img width="350" height="300" alt="p1" src="https://github.com/user-attachments/assets/da19e62a-110a-4665-a274-476701f239aa" />
+<img width="350" height="300" alt="p2" src="https://github.com/user-attachments/assets/f71131be-6633-46a9-90b7-02d5e787acca" />
+<img width="350" height="300" alt="p3" src="https://github.com/user-attachments/assets/cb1955c7-62bf-433c-b5fd-c9bff24febd0" />
+<img width="350" height="300" alt="p4" src="https://github.com/user-attachments/assets/ede65183-82d6-4087-a42c-96eded326cbb" />
+<img width="350" height="300" alt="p5" src="https://github.com/user-attachments/assets/47883e1c-baed-4b26-86ea-ac7ada1cc372" />
+
 
 ---
 
